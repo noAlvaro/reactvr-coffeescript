@@ -1,9 +1,3 @@
-# Hot reaload: needs two terminal services
-# Enter project folder (root)
-# Terminal 1: coffee -wc .
-# Terminal 2: npm start
-# Happy prototyping!
-
 import React from 'react'
 import {
   AppRegistry
